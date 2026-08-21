@@ -1,4 +1,4 @@
-![KINECTRONICS Logo](https://github.com/JMRMEDEV/Kinectronics/blob/master/Kinectronics.png](https://github.com/josuemb/Kinectronics/blob/master/Kinectronics.png)
+![KINECTRONICS Logo](https://raw.githubusercontent.com/josuemb/Kinectronics/master/Kinectronics.png)
 
 ## A Mechatronics-Kinect Programming API
 
